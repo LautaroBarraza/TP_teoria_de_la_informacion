@@ -3,6 +3,7 @@
 **¡Bienvenidos!**
 
 Este repositorio contiene la resolución del Trabajo Práctico de *Teoría de la Información*. Cada sección del TP está separada en archivos independientes (.py o .ipynb) para facilitar su ejecución y revisión de manera modular.
+Tambien disponen del codigo en google colab para una ejecucion mas simple, el cual es https://colab.research.google.com/drive/1ZqonCr_oRBpJkRv35wvjl8pOKCqcc--p?usp=sharing.
 
 ---
 
